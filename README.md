@@ -16,7 +16,7 @@ Make sure your game's serial number is "SLPM-65140" for it to work perfectly.
 # How to install, activate and configure:
 - **Installation and Download:**
 
-  **Download** the file from the following link: **https://www.mediafire.com/file/eyn4c9v49s1li8v/SLPM-65140.7z/file.**
+  **Download** the file from the following link: **https://www.mediafire.com/file/aka625ap5iw91lv/SLPM-65140.7z/file.**
   
   This texture pack is for the PCSX2 emulator and its version. To install this texture pack, extract the files and move the "SLPM-65140" folder to the folder where you normally store the textures you use in the emulator, by default it is "textures".
 
@@ -62,7 +62,7 @@ Certifique-se de que o "número de série" do seu jogo seja "SLPM-65140" para qu
 
 # Como instalar, ativar e configurar:
 - **Instalação e Download:**
-  **Baixe** o arquivo no seguinte link: **https://www.mediafire.com/file/eyn4c9v49s1li8v/SLPM-65140.7z/file.**
+  **Baixe** o arquivo no seguinte link: **https://www.mediafire.com/file/aka625ap5iw91lv/SLPM-65140.7z/file.**
   
   Este pacote de texturas é para o emulador PCSX2 e sua versão. Para instalar este pacote de texturas, extraia os arquivos e mova a pasta "SLPM-65140" para a pasta onde você normalmente armazena as texturas que usa no emulador; por padrão, é a pasta "textures". Ativação:
   Para ativar as texturas, no seu emulador, clique com o botão direito e selecione "Propriedades". Verifique se o "Número de Série" é compatível com a versão do seu jogo (japonês). Em seguida, vá para "Gráficos" e depois para "Substituição de Textura". Certifique-se de ativar as opções "Carregar texturas" e "Carregamento assíncrono de texturas" ou "Pré-carregar texturas" (de acordo com sua preferência). As texturas devem ser ativadas imediatamente após isso.
@@ -113,7 +113,7 @@ Certifique-se de que o "número de série" do seu jogo seja "SLPM-65140" para qu
 * **インストールとダウンロード:**
 
   以下のリンクからファイルを**ダウンロード**してください:
-  **[https://www.mediafire.com/file/eyn4c9v49s1li8v/SLPM-65140.7z/file](https://www.mediafire.com/file/eyn4c9v49s1li8v/SLPM-65140.7z/file).**
+  **https://www.mediafire.com/file/aka625ap5iw91lv/SLPM-65140.7z/file.**
 
   このテクスチャパックはPCSX2エミュレーター用です。インストールするには、ファイルを解凍し、「SLPM-65140」フォルダを、エミュレーターで通常テクスチャを保存しているフォルダに移動してください。デフォルトでは「textures」です。
 
@@ -173,7 +173,7 @@ Assicurati che il numero di serie del tuo gioco sia **“SLPM-65140”** affinch
 * **Installazione e Download:**
 
   **Scarica** il file dal seguente link:
-  **[https://www.mediafire.com/file/eyn4c9v49s1li8v/SLPM-65140.7z/file](https://www.mediafire.com/file/eyn4c9v49s1li8v/SLPM-65140.7z/file).**
+  **https://www.mediafire.com/file/aka625ap5iw91lv/SLPM-65140.7z/file.**
 
   Questo texture pack è destinato all’emulatore PCSX2. Per installarlo, estrai i file e sposta la cartella **“SLPM-65140”** nella cartella in cui normalmente salvi le texture utilizzate dall’emulatore; per impostazione predefinita è **“textures”**.
 
