@@ -109,3 +109,47 @@ Obs: o mangá que aparece no fundo durante a exibição das histórias foi ajust
 * Photopea = [https://www.photopea.com/](https://www.photopea.com/)
 
 * GetImg = [https://getimg.ai/app/content-generator](https://getimg.ai/app/content-generator)
+
+#
+#
+
+# IT
+
+# Nota Importante
+
+Questo texture pack **NON È ANCORA COMPLETO**; mancano ancora contenuti extra e diverse piccole regolazioni alle texture, oltre a correzioni come difetti generati dall’upscaling tramite IA. Cercherò di sistemare tutto poco alla volta e spero di completarlo entro quest’anno. Sono riuscito a realizzare questo pack solo perché ero in vacanza dall’università, poiché durante il periodo di lezioni il lavoro sarebbe stato affrettato e di qualità inferiore. Tuttavia, dato che il gioco base e la maggior parte delle risorse extra sono già pronti, posso effettuare queste regolazioni con maggiore calma.
+
+# Dettagli Tecnici
+
+Per estrarre le texture, ho utilizzato la funzione di dump nativa di PCSX2.
+
+Per l’upscaling ho usato il programma Upscayl, un software che esegue modelli di upscaling tramite IA localmente e offline.
+
+* **Ho utilizzato modelli diversi per tipi diversi di texture.**
+
+  Personaggi, oggetti dello scenario, schermate di caricamento, ambienti, in-game --> UltraSharp a 4x.
+
+  Fumetti --> unknown a 8x (disponibile per il download nel repository di Upscayl).
+
+  Contenuti extra e interfaccia --> VolArt a 4x.
+
+  Fumetti drammatici --> Unknown a 2x seguito da NomosWebPhoto Esrgan a 2x.
+
+Per le regolazioni manuali delle texture, ho utilizzato Photopea, un’alternativa online a Photoshop.
+
+Per adattare le schermate di caricamento a un rapporto d’aspetto più vicino al 16:9, ho usato Photopea per manipolare e correggere la distorsione dell’immagine e poi, principalmente, il sito GetImg.ai con il template FLUX.2 [klein] per completare l’immagine, come se fosse un uncrop. Ho utilizzato anche ChatGPT, Gemini e Grok (non sono molto efficienti, ma a volte funzionano quando GetImg fallisce).
+
+Nota: il manga che appare sullo sfondo durante la visualizzazione delle storie è stato regolato utilizzando Gemini, con un buon prompt, naturalmente.
+
+# Link:
+
+* Upscayl = [https://github.com/upscayl/upscayl](https://github.com/upscayl/upscayl)
+
+* OpenModelDB = [https://openmodeldb.info/](https://openmodeldb.info/)
+
+* Photopea = [https://www.photopea.com/](https://www.photopea.com/)
+
+* GetImg = [https://getimg.ai/app/content-generator](https://getimg.ai/app/content-generator)
+
+#
+
