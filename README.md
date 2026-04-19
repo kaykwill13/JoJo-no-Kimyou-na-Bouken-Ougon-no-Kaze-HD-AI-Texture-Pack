@@ -47,13 +47,13 @@ Make sure your game's serial number is "SLPM-65140" for it to work perfectly.
   
   "Tone boost" --> "On",
   
-  "Brightness" --> "57%",
+  "Brightness" --> "50%",
   
-  "Gamma" --> "50%",
+  "Gamma" --> "65%",
   
-  "Contrast" --> "60%",
+  "Contrast" --> "57%",
   
-  "Saturation" --> "65%".
+  "Saturation" --> "54%".
 #
 #
 # PT-BR
@@ -92,13 +92,13 @@ Certifique-se de que o "número de série" do seu jogo seja "SLPM-65140" para qu
     
     "Reforço de tons" --> "Ligado",
     
-    "Brilho" --> "57%",
+    "Brilho" --> "50%",
     
-    "Gama" --> "50%",
+    "Gama" --> "65%",
     
-    "Contraste" --> "60%",
+    "Contraste" --> "57%",
     
-    "Saturação" --> "65%".
+    "Saturação" --> "54%".
 
 #
 #
@@ -150,13 +150,13 @@ Certifique-se de que o "número de série" do seu jogo seja "SLPM-65140" para qu
 
   「Tone boost」→「On」
 
-  「Brightness」→「57%」
+  「Brightness」→「50%」
 
-  「Gamma」→「50%」
+  「Gamma」→「65%」
 
-  「Contrast」→「60%」
+  「Contrast」→「57%」
 
-  「Saturation」→「65%」
+  「Saturation」→「54%」
 
 #
 #
@@ -212,12 +212,12 @@ Assicurati che il numero di serie del tuo gioco sia **“SLPM-65140”** affinch
 
   **“Tone boost”** → **“On”**,
 
-  **“Brightness”** → **“57%”**,
+  **“Brightness”** → **“50%”**,
 
-  **“Gamma”** → **“50%”**,
+  **“Gamma”** → **“65%”**,
 
-  **“Contrast”** → **“60%”**,
+  **“Contrast”** → **“57%”**,
 
-  **“Saturation”** → **“65%”**.
+  **“Saturation”** → **“54%”**.
 
 
