@@ -7,7 +7,7 @@
 - [Italiano](#it)
 
 #
-# **<a href="https://www.mediafire.com/file/aka625ap5iw91lv/SLPM-65140.7z/file." target="_blank">Download</a>**
+# **<a href="https://github.com/kaykwill13/JoJo-no-Kimyou-na-Bouken-Ougon-no-Kaze-HD-AI-Upscaling-Texture-Pack/releases" target="_blank">Download</a>**
 #
 
 # ENG
