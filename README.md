@@ -5,6 +5,8 @@
 - [Português](#pt-br)
 - [日本語](#jp)
 - [Italiano](#it)
+- [中文(简体)](#ch)
+
 
 #
 # **<a href="https://github.com/kaykwill13/JoJo-no-Kimyou-na-Bouken-Ougon-no-Kaze-HD-AI-Upscaling-Texture-Pack/releases" target="_blank">Download</a>**
@@ -56,6 +58,7 @@ Make sure your game's serial number is "SLPM-65140" for it to work perfectly.
   "Saturation" --> "54%".
 #
 #
+
 # PT-BR
 # Pacote de Texturas HD com Upscaling por IA para JoJo no Kimyou na Bouken: Ougon no Kaze (JoJo's Bizarre Adventure: Golden Wind).
 
@@ -220,4 +223,53 @@ Assicurati che il numero di serie del tuo gioco sia **“SLPM-65140”** affinch
 
   **“Saturation”** → **“54%”**.
 
+#
+#
+
+# CH
+
+# 《JoJo的奇妙冒险：黄金之风》AI 高清纹理放大包
+
+这是一个适用于 PS2 游戏《JoJo的奇妙冒险：黄金之风》的高清纹理包。
+
+请确保你的游戏“序列号”为“SLPM-65140”，以保证正常运行。
+
+# 如何安装、启用和配置：
+
+* **安装与下载：**
+
+  **下载**文件：**[Download](#download)**
+
+  此纹理包适用于 PCSX2 模拟器及其版本。要安装该纹理包，请先解压文件，然后将“SLPM-65140”文件夹移动到你通常存放模拟器纹理的文件夹中；默认情况下为“textures”文件夹。启用方法：
+  在模拟器中，右键点击并选择“属性”。确认“序列号”与游戏版本（日版）一致。接着进入“图形”，然后进入“纹理替换”。确保启用“加载纹理”和“异步加载纹理”或“预加载纹理”（根据你的偏好选择）。完成后，纹理应立即生效。
+
+# 优化设置：
+
+* **为了获得更好的体验：**
+
+  * **在“渲染”中：**
+
+    “双线性纹理过滤” --> “PS2 双线性”（使纹理更加平滑），
+
+    “抖动（Dithering）” --> “强制 32 位”（使用 32 位颜色）。
+
+# 可选优化（我个人使用）：
+
+* **在“后处理”中：**
+
+  “自适应对比度锐化” --> “锐化与缩放”，
+
+  “锐度” --> “50%”，
+
+  “FXAA” --> “开启”，
+
+  “色调增强” --> “开启”，
+
+  “亮度” --> “50%”，
+
+  “伽马” --> “65%”，
+
+  “对比度” --> “57%”，
+
+  “饱和度” --> “54%”。
 
