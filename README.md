@@ -21,7 +21,7 @@ Make sure your game's serial number is "SLPM-65140" for it to work perfectly.
 # How to install, activate and configure:
 - **Installation and Download:**
 
-  **Download** the file from the following link: **[Download](#download)**
+  **Download** the file from the following link: **<a href="https://github.com/kaykwill13/JoJo-no-Kimyou-na-Bouken-Ougon-no-Kaze-HD-AI-Upscaling-Texture-Pack/releases" target="_blank">Download</a>**
   
   This texture pack is for the PCSX2 emulator and its version. To install this texture pack, extract the files and move the "SLPM-65140" folder to the folder where you normally store the textures you use in the emulator, by default it is "textures".
 
@@ -69,7 +69,7 @@ Certifique-se de que o "número de série" do seu jogo seja "SLPM-65140" para qu
 # Como instalar, ativar e configurar:
 - **Instalação e Download:**
 
-  **Baixe** o arquivo no seguinte link: **[Download](#download)**
+  **Baixe** o arquivo no seguinte link: **<a href="https://github.com/kaykwill13/JoJo-no-Kimyou-na-Bouken-Ougon-no-Kaze-HD-AI-Upscaling-Texture-Pack/releases" target="_blank">Download</a>**
   
   Este pacote de texturas é para o emulador PCSX2 e sua versão. Para instalar este pacote de texturas, extraia os arquivos e mova a pasta "SLPM-65140" para a pasta onde você normalmente armazena as texturas que usa no emulador; por padrão, é a pasta "textures". Ativação:
   Para ativar as texturas, no seu emulador, clique com o botão direito e selecione "Propriedades". Verifique se o "Número de Série" é compatível com a versão do seu jogo (japonês). Em seguida, vá para "Gráficos" e depois para "Substituição de Textura". Certifique-se de ativar as opções "Carregar texturas" e "Carregamento assíncrono de texturas" ou "Pré-carregar texturas" (de acordo com sua preferência). As texturas devem ser ativadas imediatamente após isso.
@@ -120,7 +120,7 @@ Certifique-se de que o "número de série" do seu jogo seja "SLPM-65140" para qu
 * **インストールとダウンロード:**
 
   以下のリンクからファイルを**ダウンロード**してください:
-  **[Download](#download)**
+  **<a href="https://github.com/kaykwill13/JoJo-no-Kimyou-na-Bouken-Ougon-no-Kaze-HD-AI-Upscaling-Texture-Pack/releases" target="_blank">Download</a>**
 
   このテクスチャパックはPCSX2エミュレーター用です。インストールするには、ファイルを解凍し、「SLPM-65140」フォルダを、エミュレーターで通常テクスチャを保存しているフォルダに移動してください。デフォルトでは「textures」です。
 
@@ -180,7 +180,7 @@ Assicurati che il numero di serie del tuo gioco sia **“SLPM-65140”** affinch
 * **Installazione e Download:**
 
   **Scarica** il file dal seguente link:
-  **[Download](#download)**
+  **<a href="https://github.com/kaykwill13/JoJo-no-Kimyou-na-Bouken-Ougon-no-Kaze-HD-AI-Upscaling-Texture-Pack/releases" target="_blank">Download</a>**
 
   Questo texture pack è destinato all’emulatore PCSX2. Per installarlo, estrai i file e sposta la cartella **“SLPM-65140”** nella cartella in cui normalmente salvi le texture utilizzate dall’emulatore; per impostazione predefinita è **“textures”**.
 
@@ -238,7 +238,7 @@ Assicurati che il numero di serie del tuo gioco sia **“SLPM-65140”** affinch
 
 * **安装与下载：**
 
-  **下载**文件：**[Download](#download)**
+  **下载**文件：**<a href="https://github.com/kaykwill13/JoJo-no-Kimyou-na-Bouken-Ougon-no-Kaze-HD-AI-Upscaling-Texture-Pack/releases" target="_blank">Download</a>**
 
   此纹理包适用于 PCSX2 模拟器及其版本。要安装该纹理包，请先解压文件，然后将“SLPM-65140”文件夹移动到你通常存放模拟器纹理的文件夹中；默认情况下为“textures”文件夹。启用方法：
   在模拟器中，右键点击并选择“属性”。确认“序列号”与游戏版本（日版）一致。接着进入“图形”，然后进入“纹理替换”。确保启用“加载纹理”和“异步加载纹理”或“预加载纹理”（根据你的偏好选择）。完成后，纹理应立即生效。
